@@ -15,7 +15,7 @@ class Home_Page_Loc:
     # 页面中间的加课程
     icon_kecheng = (By.XPATH, '//i[@class="iconfont iconchuangjiankecheng"]')
     # 加课码输入框
-    input_jiakema = (By.XPATH, '//input[@type="text"]')
+    input_jiakema = (By.XPATH, '//div[@class="chuangjiankc"]//input[@type="text"]')
     # 加课弹窗取消按钮
     remove_button = (By.XPATH, '//a[@class="btn btn-defalut"]')
     # 输入错误加课码错误提示弹窗和加入成功后弹窗
