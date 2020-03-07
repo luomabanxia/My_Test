@@ -18,5 +18,5 @@ success_url = "https://www.ketangpai.com/Main/index.html"
 number = "P69UVV"
 
 # 登录账号密码
-phone = '15701586592'
-pwd = 'ma15369155985'
+phone = ''
+pwd = ''

@@ -13,5 +13,5 @@ jiake_data = [{"title": "正确加课码", "number": "P69UVV", "excepted": "加�
               {"title": "重复加课码", "number": "P69UVV", "excepted": "你已经选过此课程"}]
 
 tuike_data = [{"title": "退课密码错误", "pwd": "ma", "excepted": "密码错误"},
-              {"title": "退课密码正确", "pwd": "ma15369155985", "excepted": "课程退课成功"}]
+              {"title": "退课密码正确", "pwd": "ma", "excepted": "课程退课成功"}]
 
