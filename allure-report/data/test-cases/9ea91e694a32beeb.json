@@ -1,0 +1,139 @@
+{
+  "uid" : "9ea91e694a32beeb",
+  "name" : "test_01_jiake[cases3]",
+  "fullName" : "TestCases.test_02_jiake.TestJiake#test_01_jiake",
+  "historyId" : "0795b1c7406f235e91e0acccc891c815",
+  "time" : {
+    "start" : 1580703251290,
+    "stop" : 1580703252933,
+    "duration" : 1643
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "jiake_setUp",
+    "time" : {
+      "start" : 1580703247069,
+      "stop" : 1580703251288,
+      "duration" : 4219
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver",
+    "time" : {
+      "start" : 1580703230403,
+      "stop" : 1580703247069,
+      "duration" : 16666
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6f510c49c72ac1ee",
+      "name" : "log",
+      "source" : "6f510c49c72ac1ee.txt",
+      "type" : "text/plain",
+      "size" : 2659
+    }, {
+      "uid" : "9028da8e01425cb0",
+      "name" : "stderr",
+      "source" : "9028da8e01425cb0.txt",
+      "type" : "text/plain",
+      "size" : 3518
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "jiake_setUp::0",
+    "time" : {
+      "start" : 1580703252942,
+      "stop" : 1580703252942,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver::0",
+    "time" : {
+      "start" : 1580703252945,
+      "stop" : 1580703255538,
+      "duration" : 2593
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_02_jiake"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJiake"
+  }, {
+    "name" : "host",
+    "value" : "XZ-20140602GVEE"
+  }, {
+    "name" : "thread",
+    "value" : "4640-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_02_jiake"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cases",
+    "value" : "{'title': '重复加课码', 'number': 'P69UVV', 'excepted': '你已经选过此课程'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ea91e694a32beeb.json",
+  "parameterValues" : [ "{'title': '重复加课码', 'number': 'P69UVV', 'excepted': '你已经选过此课程'}" ]
+}

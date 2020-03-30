@@ -1,0 +1,183 @@
+{
+  "uid" : "73825d364a8c22fe",
+  "name" : "test_04_pwd_error",
+  "fullName" : "TestCases.test_01_login.TestLogin#test_04_pwd_error",
+  "historyId" : "59e5c019258f2e91bd922ef96395b625",
+  "time" : {
+    "start" : 1580706742637,
+    "stop" : 1580706744848,
+    "duration" : 2211
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "login_setUp",
+    "time" : {
+      "start" : 1580706742635,
+      "stop" : 1580706742635,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver",
+    "time" : {
+      "start" : 1580706733768,
+      "stop" : 1580706742634,
+      "duration" : 8866
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a93cd1960e3a23cc",
+      "name" : "log",
+      "source" : "a93cd1960e3a23cc.txt",
+      "type" : "text/plain",
+      "size" : 2577
+    }, {
+      "uid" : "ba654d1c76f98c0a",
+      "name" : "stderr",
+      "source" : "ba654d1c76f98c0a.txt",
+      "type" : "text/plain",
+      "size" : 3410
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "login_setUp::0",
+    "time" : {
+      "start" : 1580706744849,
+      "stop" : 1580706744849,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver::0",
+    "time" : {
+      "start" : 1580706744882,
+      "stop" : 1580706747650,
+      "duration" : 2768
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "XZ-20140602GVEE"
+  }, {
+    "name" : "thread",
+    "value" : "6788-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_01_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1f5d419e4f9c289d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705352462,
+        "stop" : 1580705354776,
+        "duration" : 2314
+      }
+    }, {
+      "uid" : "84ff026f3514499e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703168079,
+        "stop" : 1580703170227,
+        "duration" : 2148
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "36b7aeff7dacd7c3",
+        "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/36b7aeff7dacd7c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580705352462,
+          "stop" : 1580705354776,
+          "duration" : 2314
+        }
+      }, {
+        "uid" : "455ec442d0d694e3",
+        "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/455ec442d0d694e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580703168079,
+          "stop" : 1580703170227,
+          "duration" : 2148
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "73825d364a8c22fe.json",
+  "parameterValues" : [ ]
+}

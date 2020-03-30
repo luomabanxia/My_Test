@@ -1,0 +1,139 @@
+{
+  "uid" : "6a47baa819e52fc5",
+  "name" : "test_01_jiake[cases1]",
+  "fullName" : "TestCases.test_02_jiake.TestJiake#test_01_jiake",
+  "historyId" : "2161dacaf8044091973a981887910ed9",
+  "time" : {
+    "start" : 1580703208650,
+    "stop" : 1580703209967,
+    "duration" : 1317
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "jiake_setUp",
+    "time" : {
+      "start" : 1580703205199,
+      "stop" : 1580703208647,
+      "duration" : 3448
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver",
+    "time" : {
+      "start" : 1580703194371,
+      "stop" : 1580703205199,
+      "duration" : 10828
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "80db46351be8540e",
+      "name" : "log",
+      "source" : "80db46351be8540e.txt",
+      "type" : "text/plain",
+      "size" : 2659
+    }, {
+      "uid" : "25267f6dc09153d6",
+      "name" : "stderr",
+      "source" : "25267f6dc09153d6.txt",
+      "type" : "text/plain",
+      "size" : 3518
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "jiake_setUp::0",
+    "time" : {
+      "start" : 1580703209970,
+      "stop" : 1580703209970,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver::0",
+    "time" : {
+      "start" : 1580703209974,
+      "stop" : 1580703212632,
+      "duration" : 2658
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_02_jiake"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJiake"
+  }, {
+    "name" : "host",
+    "value" : "XZ-20140602GVEE"
+  }, {
+    "name" : "thread",
+    "value" : "4640-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_02_jiake"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cases",
+    "value" : "{'title': '空格加课码', 'number': ' ', 'excepted': '加课验证码必须是6位字符'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a47baa819e52fc5.json",
+  "parameterValues" : [ "{'title': '空格加课码', 'number': ' ', 'excepted': '加课验证码必须是6位字符'}" ]
+}

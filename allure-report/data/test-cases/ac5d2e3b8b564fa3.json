@@ -1,0 +1,139 @@
+{
+  "uid" : "ac5d2e3b8b564fa3",
+  "name" : "test_02_liuyan",
+  "fullName" : "TestCases.test_03_sc.TestScFile#test_02_liuyan",
+  "historyId" : "6ead305b4095a814d17b3803ab1424fc",
+  "time" : {
+    "start" : 1580705569937,
+    "stop" : 1580705577547,
+    "duration" : 7610
+  },
+  "description" : "\n        3、留言\n        4、断言\n        :param sc_setUp:\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    3、留言\n    4、断言\n    :param sc_setUp:\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "sc_setUp",
+    "time" : {
+      "start" : 1580705558572,
+      "stop" : 1580705569935,
+      "duration" : 11363
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver",
+    "time" : {
+      "start" : 1580705546523,
+      "stop" : 1580705558571,
+      "duration" : 12048
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        3、留言\n        4、断言\n        :param sc_setUp:\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b501a0ed6ca595d5",
+      "name" : "log",
+      "source" : "b501a0ed6ca595d5.txt",
+      "type" : "text/plain",
+      "size" : 7953
+    }, {
+      "uid" : "4f11187cd64a73a6",
+      "name" : "stderr",
+      "source" : "4f11187cd64a73a6.txt",
+      "type" : "text/plain",
+      "size" : 10528
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "sc_setUp::0",
+    "time" : {
+      "start" : 1580705577548,
+      "stop" : 1580705586876,
+      "duration" : 9328
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver::0",
+    "time" : {
+      "start" : 1580705586880,
+      "stop" : 1580705589510,
+      "duration" : 2630
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_03_sc"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestScFile"
+  }, {
+    "name" : "host",
+    "value" : "XZ-20140602GVEE"
+  }, {
+    "name" : "thread",
+    "value" : "7752-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_03_sc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac5d2e3b8b564fa3.json",
+  "parameterValues" : [ ]
+}

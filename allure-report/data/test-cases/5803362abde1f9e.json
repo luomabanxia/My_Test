@@ -1,0 +1,139 @@
+{
+  "uid" : "5803362abde1f9e",
+  "name" : "test_01_jiake[cases0]",
+  "fullName" : "TestCases.test_02_jiake.TestJiake#test_01_jiake",
+  "historyId" : "d79adb595d752c256330958d58abde1f",
+  "time" : {
+    "start" : 1580703188287,
+    "stop" : 1580703190625,
+    "duration" : 2338
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "int_driver",
+    "time" : {
+      "start" : 1580703172778,
+      "stop" : 1580703185346,
+      "duration" : 12568
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "jiake_setUp",
+    "time" : {
+      "start" : 1580703185346,
+      "stop" : 1580703188285,
+      "duration" : 2939
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1cc6e1a1867c0278",
+      "name" : "log",
+      "source" : "1cc6e1a1867c0278.txt",
+      "type" : "text/plain",
+      "size" : 2659
+    }, {
+      "uid" : "aa9f6a7b3f035e16",
+      "name" : "stderr",
+      "source" : "aa9f6a7b3f035e16.txt",
+      "type" : "text/plain",
+      "size" : 3518
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "int_driver::0",
+    "time" : {
+      "start" : 1580703190715,
+      "stop" : 1580703194353,
+      "duration" : 3638
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "jiake_setUp::0",
+    "time" : {
+      "start" : 1580703190710,
+      "stop" : 1580703190710,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_02_jiake"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJiake"
+  }, {
+    "name" : "host",
+    "value" : "XZ-20140602GVEE"
+  }, {
+    "name" : "thread",
+    "value" : "4640-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_02_jiake"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "cases",
+    "value" : "{'title': '正确加课码', 'number': 'P69UVV', 'excepted': '加入课堂成功'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5803362abde1f9e.json",
+  "parameterValues" : [ "{'title': '正确加课码', 'number': 'P69UVV', 'excepted': '加入课堂成功'}" ]
+}
