@@ -1,1 +1,0 @@
-{"uuid": "365b72f7-61ae-4676-92e8-3f05e2e3ec13", "children": ["dcec838c-07f8-4cd0-a25c-24fdf39d2cb2"], "befores": [{"name": "sixin_setUp", "status": "passed", "start": 1580705638824, "stop": 1580705642442}], "afters": [{"name": "sixin_setUp::0", "status": "passed", "start": 1580705650735, "stop": 1580705650736}], "start": 1580705638824, "stop": 1580705650736}
