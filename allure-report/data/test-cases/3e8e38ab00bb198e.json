@@ -1,0 +1,139 @@
+{
+  "uid" : "3e8e38ab00bb198e",
+  "name" : "test_02_tuike[case0]",
+  "fullName" : "TestCases.test_02_jiake.TestJiake#test_02_tuike",
+  "historyId" : "e25264ff257c63a8863cc437b6e851e3",
+  "time" : {
+    "start" : 1580703268768,
+    "stop" : 1580703270872,
+    "duration" : 2104
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "jiake_setUp",
+    "time" : {
+      "start" : 1580703265992,
+      "stop" : 1580703268766,
+      "duration" : 2774
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver",
+    "time" : {
+      "start" : 1580703255554,
+      "stop" : 1580703265992,
+      "duration" : 10438
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2d21a335b21a2529",
+      "name" : "log",
+      "source" : "2d21a335b21a2529.txt",
+      "type" : "text/plain",
+      "size" : 2979
+    }, {
+      "uid" : "9021be3fc2b7d61a",
+      "name" : "stderr",
+      "source" : "9021be3fc2b7d61a.txt",
+      "type" : "text/plain",
+      "size" : 3942
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "jiake_setUp::0",
+    "time" : {
+      "start" : 1580703270877,
+      "stop" : 1580703270877,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver::0",
+    "time" : {
+      "start" : 1580703270915,
+      "stop" : 1580703273742,
+      "duration" : 2827
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_02_jiake"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJiake"
+  }, {
+    "name" : "host",
+    "value" : "XZ-20140602GVEE"
+  }, {
+    "name" : "thread",
+    "value" : "4640-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_02_jiake"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'title': '退课密码错误', 'pwd': 'ma', 'excepted': '密码错误'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e8e38ab00bb198e.json",
+  "parameterValues" : [ "{'title': '退课密码错误', 'pwd': 'ma', 'excepted': '密码错误'}" ]
+}

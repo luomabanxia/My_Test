@@ -1,0 +1,30 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Feb 03 13:16:30 CST 2020","Mon Feb 03 13:16:32 CST 2020","1826","TestCases","test_04_sixin","TestSx","","","test_02_error",""
+"passed","Mon Feb 03 13:15:37 CST 2020","Mon Feb 03 13:15:45 CST 2020","7738","TestCases","test_03_sc","TestScFile","","","test_02_liuyan","
+        3、留言
+        4、断言
+        :param sc_setUp:
+        :return:
+        "
+"passed","Mon Feb 03 13:13:00 CST 2020","Mon Feb 03 13:13:01 CST 2020","1412","TestCases","test_02_jiake","TestJiake","","","test_01_jiake[cases1]",""
+"passed","Mon Feb 03 13:12:22 CST 2020","Mon Feb 03 13:12:24 CST 2020","2211","TestCases","test_01_login","TestLogin","","","test_04_pwd_error",""
+"passed","Mon Feb 03 13:13:20 CST 2020","Mon Feb 03 13:13:21 CST 2020","1475","TestCases","test_02_jiake","TestJiake","","","test_01_jiake[cases2]",""
+"passed","Mon Feb 03 13:16:12 CST 2020","Mon Feb 03 13:16:14 CST 2020","2233","TestCases","test_04_sixin","TestSx","","","test_01_success",""
+"passed","Mon Feb 03 13:12:07 CST 2020","Mon Feb 03 13:12:09 CST 2020","2164","TestCases","test_01_login","TestLogin","","","test_03_phone_error",""
+"passed","Mon Feb 03 13:11:50 CST 2020","Mon Feb 03 13:11:51 CST 2020","1196","TestCases","test_01_login","TestLogin","","","test_02_phone_error",""
+"passed","Mon Feb 03 13:14:43 CST 2020","Mon Feb 03 13:15:00 CST 2020","16219","TestCases","test_03_sc","TestScFile","","","test_01_sc_file","
+        1、点击作业按钮
+        2、点击已提交
+        3、点击更新提交
+        4、上传文件
+        5、点击更新提交
+        6、断言
+        :param sc_setUp:
+        :return:
+        "
+"passed","Mon Feb 03 13:13:57 CST 2020","Mon Feb 03 13:13:59 CST 2020","1993","TestCases","test_02_jiake","TestJiake","","","test_02_tuike[case0]",""
+"passed","Mon Feb 03 13:12:42 CST 2020","Mon Feb 03 13:12:44 CST 2020","2157","TestCases","test_02_jiake","TestJiake","","","test_01_jiake[cases0]",""
+"passed","Mon Feb 03 13:13:39 CST 2020","Mon Feb 03 13:13:41 CST 2020","1713","TestCases","test_02_jiake","TestJiake","","","test_01_jiake[cases3]",""
+"passed","Mon Feb 03 13:14:16 CST 2020","Mon Feb 03 13:14:19 CST 2020","2575","TestCases","test_02_jiake","TestJiake","","","test_02_tuike[case1]",""
+"passed","Mon Feb 03 13:10:51 CST 2020","Mon Feb 03 13:10:57 CST 2020","6062","TestCases","test_01_login","TestLogin","","","test_01_login_success",""
+"passed","Mon Feb 03 13:16:50 CST 2020","Mon Feb 03 13:16:57 CST 2020","7215","TestCases","test_04_sixin","TestSx","","","test_03_file",""

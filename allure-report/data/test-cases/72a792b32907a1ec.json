@@ -1,0 +1,136 @@
+{
+  "uid" : "72a792b32907a1ec",
+  "name" : "test_02_error",
+  "fullName" : "TestCases.test_04_sixin.TestSx#test_02_error",
+  "historyId" : "a169f9e10e49220b7cec7636b5fc15c0",
+  "time" : {
+    "start" : 1580703427776,
+    "stop" : 1580703429813,
+    "duration" : 2037
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "sixin_setUp",
+    "time" : {
+      "start" : 1580703421343,
+      "stop" : 1580703427774,
+      "duration" : 6431
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver",
+    "time" : {
+      "start" : 1580703410361,
+      "stop" : 1580703421343,
+      "duration" : 10982
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "df046765c33b4fdc",
+      "name" : "log",
+      "source" : "df046765c33b4fdc.txt",
+      "type" : "text/plain",
+      "size" : 2721
+    }, {
+      "uid" : "440d69df21a1ef5",
+      "name" : "stderr",
+      "source" : "440d69df21a1ef5.txt",
+      "type" : "text/plain",
+      "size" : 3606
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "sixin_setUp::0",
+    "time" : {
+      "start" : 1580703429814,
+      "stop" : 1580703429814,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "int_driver::0",
+    "time" : {
+      "start" : 1580703429817,
+      "stop" : 1580703432336,
+      "duration" : 2519
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_04_sixin"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSx"
+  }, {
+    "name" : "host",
+    "value" : "XZ-20140602GVEE"
+  }, {
+    "name" : "thread",
+    "value" : "4640-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_04_sixin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72a792b32907a1ec.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,15 @@
+INFO     my_log:basepage.py:50 等待登录页面_手机号输入框可见
+INFO     my_log:basepage.py:60 等待登录页面_手机号输入框可见成功，共等待0:00:00.042003
+INFO     my_log:basepage.py:69 查找登录页面_手机号输入框可见
+INFO     my_log:basepage.py:117 登录页面_手机号输入框输入内容成功
+INFO     my_log:basepage.py:50 等待登录页面_密码输入框可见
+INFO     my_log:basepage.py:60 等待登录页面_密码输入框可见成功，共等待0:00:00.037002
+INFO     my_log:basepage.py:69 查找登录页面_密码输入框可见
+INFO     my_log:basepage.py:117 登录页面_密码输入框输入内容成功
+INFO     my_log:basepage.py:50 等待登录页面_登录按钮可见
+INFO     my_log:basepage.py:60 等待登录页面_登录按钮可见成功，共等待0:00:00.050003
+INFO     my_log:basepage.py:69 查找登录页面_登录按钮可见
+INFO     my_log:basepage.py:90 点击登录页面_登录按钮元素
+INFO     my_log:basepage.py:50 等待登录页面_账号错误提示语可见
+INFO     my_log:basepage.py:39 保存截图成功
+ERROR    my_log:basepage.py:56 等待登录页面_账号错误提示语失败，保存截图

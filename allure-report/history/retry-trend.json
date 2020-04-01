@@ -1,0 +1,25 @@
+[ {
+  "buildOrder" : 4,
+  "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 15,
+    "retry" : 31
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 15,
+    "retry" : 15
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 15,
+    "retry" : 0
+  }
+} ]

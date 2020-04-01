@@ -1,0 +1,572 @@
+{
+  "0795b1c7406f235e91e0acccc891c815" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "4943026bef948a8d",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/4943026bef948a8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706819352,
+        "stop" : 1580706821065,
+        "duration" : 1713
+      }
+    }, {
+      "uid" : "95935bdefea51836",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/95935bdefea51836",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705444288,
+        "stop" : 1580705446410,
+        "duration" : 2122
+      }
+    }, {
+      "uid" : "ec983702a3eeae1",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/ec983702a3eeae1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703251290,
+        "stop" : 1580703252933,
+        "duration" : 1643
+      }
+    } ]
+  },
+  "b27843f4c29dc6656d33a0d1aa3a59a0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "e6c6b329012b317b",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/e6c6b329012b317b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706972332,
+        "stop" : 1580706974565,
+        "duration" : 2233
+      }
+    }, {
+      "uid" : "4830a7cdc4af3839",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/4830a7cdc4af3839",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705603753,
+        "stop" : 1580705607341,
+        "duration" : 3588
+      }
+    }, {
+      "uid" : "b58c9fce639aeceb",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/b58c9fce639aeceb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703405778,
+        "stop" : 1580703407696,
+        "duration" : 1918
+      }
+    } ]
+  },
+  "d8b952ec6fdeabdfcbcacf63fb1bfdaa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "f06ed575e26ae736",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/f06ed575e26ae736",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706727465,
+        "stop" : 1580706729629,
+        "duration" : 2164
+      }
+    }, {
+      "uid" : "beb6e5555cd7bd9f",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/beb6e5555cd7bd9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705334959,
+        "stop" : 1580705337089,
+        "duration" : 2130
+      }
+    }, {
+      "uid" : "69dcd396c9420903",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/69dcd396c9420903",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703147742,
+        "stop" : 1580703149804,
+        "duration" : 2062
+      }
+    } ]
+  },
+  "a1b652339abe78a42e2136adc26e04e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "da2fef097450db6b",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/da2fef097450db6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706651201,
+        "stop" : 1580706657263,
+        "duration" : 6062
+      }
+    }, {
+      "uid" : "91338a9cd613ad56",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/91338a9cd613ad56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705293127,
+        "stop" : 1580705299083,
+        "duration" : 5956
+      }
+    }, {
+      "uid" : "933773e50319886",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/933773e50319886",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703107424,
+        "stop" : 1580703113645,
+        "duration" : 6221
+      }
+    } ]
+  },
+  "a169f9e10e49220b7cec7636b5fc15c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "93595f0c528cecbc",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/93595f0c528cecbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706990878,
+        "stop" : 1580706992704,
+        "duration" : 1826
+      }
+    }, {
+      "uid" : "b6f95b2c99adfb0f",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/b6f95b2c99adfb0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705623800,
+        "stop" : 1580705626413,
+        "duration" : 2613
+      }
+    }, {
+      "uid" : "47dc38d0aa01c06c",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/47dc38d0aa01c06c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703427776,
+        "stop" : 1580703429813,
+        "duration" : 2037
+      }
+    } ]
+  },
+  "b71b4b6bcd13a43d7fded2925b0aefe4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "d05f70a2ef418b9a",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/d05f70a2ef418b9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706883906,
+        "stop" : 1580706900125,
+        "duration" : 16219
+      }
+    }, {
+      "uid" : "851181d35e4a3f81",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/851181d35e4a3f81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705519423,
+        "stop" : 1580705534161,
+        "duration" : 14738
+      }
+    }, {
+      "uid" : "a38845a849b967e8",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/a38845a849b967e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703318769,
+        "stop" : 1580703332991,
+        "duration" : 14222
+      }
+    } ]
+  },
+  "2181bdac7f4d94c73d6e6f37b04bf286" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "ce92c1445c163f05",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/ce92c1445c163f05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706856491,
+        "stop" : 1580706859066,
+        "duration" : 2575
+      }
+    }, {
+      "uid" : "40f18908d77bfb42",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/40f18908d77bfb42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705485410,
+        "stop" : 1580705487745,
+        "duration" : 2335
+      }
+    }, {
+      "uid" : "6f51edf3bbdc216b",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/6f51edf3bbdc216b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703287640,
+        "stop" : 1580703289608,
+        "duration" : 1968
+      }
+    } ]
+  },
+  "f760bec99d0673308968807fddd2d31c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "99abbe84ecab3484",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/99abbe84ecab3484",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580707010248,
+        "stop" : 1580707017463,
+        "duration" : 7215
+      }
+    }, {
+      "uid" : "3c60e99f295a8c19",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/3c60e99f295a8c19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705642443,
+        "stop" : 1580705650734,
+        "duration" : 8291
+      }
+    }, {
+      "uid" : "b5b3667380bfd9c7",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/b5b3667380bfd9c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703445699,
+        "stop" : 1580703453003,
+        "duration" : 7304
+      }
+    } ]
+  },
+  "e25264ff257c63a8863cc437b6e851e3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "8261e08774fd93a8",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/8261e08774fd93a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706837446,
+        "stop" : 1580706839439,
+        "duration" : 1993
+      }
+    }, {
+      "uid" : "70272616cdd2067e",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/70272616cdd2067e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705467615,
+        "stop" : 1580705469894,
+        "duration" : 2279
+      }
+    }, {
+      "uid" : "53bb424827ce65e0",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/53bb424827ce65e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703268768,
+        "stop" : 1580703270872,
+        "duration" : 2104
+      }
+    } ]
+  },
+  "59e5c019258f2e91bd922ef96395b625" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "73825d364a8c22fe",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/73825d364a8c22fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706742637,
+        "stop" : 1580706744848,
+        "duration" : 2211
+      }
+    }, {
+      "uid" : "36b7aeff7dacd7c3",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/36b7aeff7dacd7c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705352462,
+        "stop" : 1580705354776,
+        "duration" : 2314
+      }
+    }, {
+      "uid" : "455ec442d0d694e3",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/455ec442d0d694e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703168079,
+        "stop" : 1580703170227,
+        "duration" : 2148
+      }
+    } ]
+  },
+  "354836d1e26a1d804fe77c5a90e294e4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "e1b25b59a149bdf",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/e1b25b59a149bdf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706710179,
+        "stop" : 1580706711375,
+        "duration" : 1196
+      }
+    }, {
+      "uid" : "e705c0dc6fa9901d",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/e705c0dc6fa9901d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705315979,
+        "stop" : 1580705317097,
+        "duration" : 1118
+      }
+    }, {
+      "uid" : "c3deb84f92994346",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/c3deb84f92994346",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703131505,
+        "stop" : 1580703132636,
+        "duration" : 1131
+      }
+    } ]
+  },
+  "2161dacaf8044091973a981887910ed9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "38f53f15eda67252",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/38f53f15eda67252",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706780256,
+        "stop" : 1580706781668,
+        "duration" : 1412
+      }
+    }, {
+      "uid" : "1ccdd80bdd89dec0",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/1ccdd80bdd89dec0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705402095,
+        "stop" : 1580705403427,
+        "duration" : 1332
+      }
+    }, {
+      "uid" : "e72896083859b010",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/e72896083859b010",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703208650,
+        "stop" : 1580703209967,
+        "duration" : 1317
+      }
+    } ]
+  },
+  "8f52dd1c8316b1cd2b1a6ed9604895cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "9a7a03ad5cb0dad4",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/9a7a03ad5cb0dad4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706800514,
+        "stop" : 1580706801989,
+        "duration" : 1475
+      }
+    }, {
+      "uid" : "a428b71e49c46729",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/a428b71e49c46729",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705424293,
+        "stop" : 1580705426032,
+        "duration" : 1739
+      }
+    }, {
+      "uid" : "12f52a24560215",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/12f52a24560215",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703226040,
+        "stop" : 1580703227699,
+        "duration" : 1659
+      }
+    } ]
+  },
+  "d79adb595d752c256330958d58abde1f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "90596accdca2eec6",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/90596accdca2eec6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706762701,
+        "stop" : 1580706764858,
+        "duration" : 2157
+      }
+    }, {
+      "uid" : "71c1665bf6580510",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/71c1665bf6580510",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705383493,
+        "stop" : 1580705385731,
+        "duration" : 2238
+      }
+    }, {
+      "uid" : "e46ca50be586ed50",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/e46ca50be586ed50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703188287,
+        "stop" : 1580703190625,
+        "duration" : 2338
+      }
+    } ]
+  },
+  "6ead305b4095a814d17b3803ab1424fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "4d99cd7953d8be31",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/4/allure/#testresult/4d99cd7953d8be31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580706937677,
+        "stop" : 1580706945415,
+        "duration" : 7738
+      }
+    }, {
+      "uid" : "f19981de4ba19589",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/3/allure/#testresult/f19981de4ba19589",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580705569937,
+        "stop" : 1580705577547,
+        "duration" : 7610
+      }
+    }, {
+      "uid" : "e22c9a5c8aff76dc",
+      "reportUrl" : "http://127.0.0.1:8888/job/web_ketangpai/2/allure/#testresult/e22c9a5c8aff76dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580703368867,
+        "stop" : 1580703376358,
+        "duration" : 7491
+      }
+    } ]
+  }
+}
